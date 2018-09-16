@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Aries",
+      "image": "http://www.astrology-zodiac-signs.com/images/aries.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Taurus",
+      "image": "http://www.astrology-zodiac-signs.com/images/taurus.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gemini",
+      "image": "http://www.astrology-zodiac-signs.com/images/gemini.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cancer",
+      "image": "http://www.astrology-zodiac-signs.com/images/cancer.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Leo",
+      "image": "http://www.astrology-zodiac-signs.com/images/leo.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Virgo",
+      "image": "http://www.astrology-zodiac-signs.com/images/virgo.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Libra",
+      "image": "http://www.astrology-zodiac-signs.com/images/libra.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Scorpio",
+      "image": "http://www.astrology-zodiac-signs.com/images/scorpio.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Sagittarius",
+      "image": "http://www.astrology-zodiac-signs.com/images/sagittarius.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Capricorn",
+      "image": "http://www.astrology-zodiac-signs.com/images/capricorn.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Aquarius",
+      "image": "http://www.astrology-zodiac-signs.com/images/aquarius.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Pisces",
+      "image": "http://www.astrology-zodiac-signs.com/images/pisces.jpg"
+    }
+  ]
